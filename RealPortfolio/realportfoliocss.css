@@ -38,7 +38,7 @@ nav img {
 
 nav li {
     list-style-type: none;
-    padding-top: 20px;
+    padding-top: 18px;
     margin: 0 auto;
 }
 
@@ -49,7 +49,6 @@ nav li a {
 
 
 nav li a img:hover {
-    color: white;
     border-bottom: 3px solid white;
     border-radius: 20%;
 }
